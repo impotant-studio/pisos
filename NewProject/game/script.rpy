@@ -12,4 +12,5 @@ define er = Character('Эрик', color="#c8ffc8")
 # Игра начинается здесь:
 label start:
     "ХВАТИТ ЭТО ТЕРПЕТЬ!"
+    er "гей" 
     return
