@@ -1,8 +1,9 @@
 ﻿# Вы можете расположить сценарий своей игры в этом файле.
 
 # Определение персонажей игры.
-define e = Character('Эйлин', color="#c8ffc8")
-
+define ser = Character('Серёжа', color="#c8ffc8")
+define nad = Character('Надя', color="#c8ffc8")
+define er = Character('Эрик', color="#c8ffc8")
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
 # Например, сцену bg room можно вызвать файлом "bg room.png",
@@ -10,13 +11,5 @@ define e = Character('Эйлин', color="#c8ffc8")
 
 # Игра начинается здесь:
 label start:
-
-    scene bg room
-
-    show eileen happy
-
-    e "Вы создали новую игру кто я?."
-
-    e "Юра сосиСочка Хах"
-
+    'Клоун' 'Питушок'
     return
