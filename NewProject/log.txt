@@ -1,43 +1,39 @@
-Wed Feb 05 00:05:27 2020
+Wed Feb 05 00:08:15 2020
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
  
 
-Bootstrap to the start of init.init took 0.13s
-Early init took 0.01s
+Bootstrap to the start of init.init took 0.10s
+Early init took 0.00s
 Loader init took 0.03s
-Loading error handling took 0.09s
-Could not load C:\Users\CarvinKar\Desktop\pisos\NewProject/game/gui.rpyc
-Could not load C:\Users\CarvinKar\Desktop\pisos\NewProject/game/options.rpyc
-Could not load C:\Users\CarvinKar\Desktop\pisos\NewProject/game/screens.rpyc
-Could not load C:\Users\CarvinKar\Desktop\pisos\NewProject/game/script.rpyc
-Loading script took 2.07s
-Loading save slot metadata. took 0.05s
+Loading error handling took 0.03s
+Loading script took 0.19s
+Loading save slot metadata. took 0.03s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Running init code took 0.17s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
+Loading analysis data took 0.08s
+Analyze and compile ATL took 0.02s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\CarvinKar\\AppData\\Roaming/RenPy/backups\\NewProject':
-Dump and make backups. took 0.10s
+Dump and make backups. took 0.23s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.02s
+Initial gc. took 0.04s
 DPI scale factor: 1.000000
-Creating interface object took 0.10s
+Creating interface object took 0.13s
 Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.01s
+Init translation took 0.08s
+Build styles took 0.02s
 Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.16s
-Prepare screens took 0.11s
-Save pyanalysis. took 0.11s
-Save bytecode. took 0.11s
+Analyze screens took 0.05s
+Save screen analysis took 0.23s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.12s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.03s
+Interface start took 0.04s
 
 primary display bounds: (0, 0, 1280, 1024)
 swap interval: 1 frames
@@ -455,18 +451,18 @@ Texture testing:
 - 2048px textures work.
 Root FBO is: 0
 FBO Maximum Texture Size: 2048
-Total time until interface ready: 4.89899992943s
+Total time until interface ready: 3.38700008392s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
 - Frame drawn at 0.020667 seconds.
-- Frame drawn at 0.021667 seconds.
-- Frame drawn at 0.037667 seconds.
-- Frame drawn at 0.052667 seconds.
-- 0.052667 seconds to render 5 frames.
+- Frame drawn at 0.022667 seconds.
+- Frame drawn at 0.025667 seconds.
+- Frame drawn at 0.043667 seconds.
+- 0.043667 seconds to render 5 frames.
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.01s
-Load screen analysis took 0.04s
+Load screen analysis took 0.05s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
