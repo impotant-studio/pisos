@@ -367,4 +367,19 @@ Root FBO is: 0
 FBO Maximum Texture Size: 2048
 controller: 'ff111b00000000000000504944564944' None 0L
 Total time until interface ready: 1.1779999733s
-- Target 
+- Target is 5 frames in 0.333333333333 seconds.
+- Frame drawn at 0.000000 seconds.
+- Frame drawn at 0.015000 seconds.
+- Frame drawn at 0.029000 seconds.
+- Frame drawn at 0.047000 seconds.
+- Frame drawn at 0.064000 seconds.
+- 0.064000 seconds to render 5 frames.
+The window was minimized.
+The window was restored.
+
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
