@@ -25,5 +25,6 @@ label start:
     nad "Я Буддистка, верю в  несколько Богов и  одного жирного слона."
     er "Мы с  Эриком приняли Ислам"
     "Бан"
-    play music '
+    play music 'ya natural.mp3'
+    'da'
     return
